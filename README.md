@@ -1,7 +1,8 @@
 olá, eu sou o ezequiel,também mais conhecido como quiel!👋🏽
 
 SOCIAL MEDIA⬇️
- https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav
+
+https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav
 
 mensseger: https://m.me/ezequiel.vieira.336717
 
