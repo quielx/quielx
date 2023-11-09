@@ -1,11 +1,13 @@
-- 👋 Hi, I’m @quielx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+olá, eu sou o ezequiel,também mais conhecido como quiel!👋🏽
 
-<!---
-quielx/quielx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
--/ $ mkdir ~/pset1/
+SOCIAL MEDIA⬇️
+ https://www.linkedin.com/me?trk=p_mwlite_feed_updates-secondary_nav
+
+mensseger: https://m.me/ezequiel.vieira.336717
+
+telegram: @quiel17z
+
+ttw: https://x.com/quielstyle7?t=KMvv_xh-vyJb_F3NyS7EOQ&s=09
+
+### se interresou pelo meu serviço e que saber mais e só entrar em contado⬆️
+ 
