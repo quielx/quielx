@@ -9,5 +9,5 @@ telegram: @quiel17z
 
 ttw: https://x.com/quielstyle7?t=KMvv_xh-vyJb_F3NyS7EOQ&s=09
 
-### se interresou pelo meu serviço e que saber mais e só entrar em contado⬆️
+### se interresou pelo meu serviço, venha e saiba mais e só entrar em contado⬆️
  
