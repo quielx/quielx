@@ -3,11 +3,11 @@
 Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, desafios e estudos que estou desenvolvendo enquanto aprendo e aprimoro minhas habilidades em programação.
 
 ## 🚀 Tecnologias que estou aprendendo:
-- 💻 lógica da programação 
+- 💻 Cursando ADS 
 - 🐍 Python
 - ⚙️ Git & GitHub
 - 🌐 criação de sites web
-- 🖥️ cursando ads
+- 🖥️ Lógica da programação 
 
 ## 🌱 O que estou aprendendo:
 - Desenvolvimento web front-end
