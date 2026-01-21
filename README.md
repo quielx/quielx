@@ -4,7 +4,7 @@ Seja bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos, desafio
 
 ## 🚀 Tecnologias que estou aprendendo:
 - 💻 Cursando ADS 
-- 🐍 Python
+- 🐍 Python, Java, PHP, css, C#, html
 - ⚙️ Git & GitHub
 - 🌐 criação de sites web
 - 🖥️ Lógica da programação 
